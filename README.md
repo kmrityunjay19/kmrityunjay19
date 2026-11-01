@@ -10,6 +10,7 @@ I design and deliver end-to-end data solutions - from platform architecture and 
 ## Featured data engineering project
 
 - **[Fabric Workspace Administration Toolkit](https://github.com/kmrityunjay19/fabric-workspace-administration)** - a portfolio-safe, read-only toolkit combining Fabric Admin and Power BI Scanner APIs for workspace inventory, access/governance review, and cross-workspace dependency reporting.
+- **[Purview Data Product Inventory](https://github.com/kmrityunjay19/purview-data-product-inventory)** - a Purview-to-Fabric medallion reference architecture for a domain-based, RLS-filtered Power BI data product directory with glossary, quality, and deep-link metadata.
 
 ## Certifications
 - Microsoft Certified: Fabric Data Engineer Associate
