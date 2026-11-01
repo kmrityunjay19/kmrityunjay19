@@ -7,6 +7,10 @@ I design and deliver end-to-end data solutions - from platform architecture and 
 - Designing scalable ETL/ELT pipelines and dimensional data models
 - Enabling secure, governed data platforms with Microsoft Purview, RLS, and role-based access
 - Supporting deployment workflows, UAT, and production delivery with Azure DevOps
+## Featured data engineering project
+
+- **[Fabric Workspace Administration Toolkit](https://github.com/kmrityunjay19/fabric-workspace-administration)** - a portfolio-safe, read-only toolkit for Fabric workspace inventory, capacity/state reporting, and governance review.
+
 ## Certifications
 - Microsoft Certified: Fabric Data Engineer Associate
 - Microsoft Certified: Fabric Analytics Engineer Associate
