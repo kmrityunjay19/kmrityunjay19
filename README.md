@@ -1,13 +1,24 @@
 # Hi, I'm Mrityunjay 👋
-### Data Science & Machine Learning Enthusiast
-I build practical projects that turn real-world data into useful models and clear insights. I enjoy exploring data, training predictive models, and sharing what I learn along the way.
-## What I work with
-`Python` · `Machine Learning` · `Data Analysis` · `Classification` · `Predictive Modeling`
-## Featured projects
-- **[Churn Prediction](https://github.com/kmrityunjay19/Churn_prediction)** — a machine-learning project for predicting employee churn.
-- **[Beverage Quality Analysis](https://github.com/kmrityunjay19/Breverages_RFC)** — exploring beverage characteristics to build data-driven predictions.
-- **[Spruce Classification](https://github.com/kmrityunjay19/Spruce_Classification)** — classifying forest-cover observations from cartographic data.
+### Senior Data Engineer | Microsoft Fabric, Azure & Modern Data Platforms
+I design and deliver end-to-end data solutions - from platform architecture and secure setup to data pipelines, governance, deployment, and production support.
+## Core data engineering focus
+`Microsoft Fabric` · `Azure Synapse Analytics` · `Azure Data Factory` · `Python` · `PySpark` · `Spark SQL` · `T-SQL`
+- Building Lakehouse, Warehouse, pipeline, dataflow, and semantic-model solutions
+- Designing scalable ETL/ELT pipelines and dimensional data models
+- Enabling secure, governed data platforms with Microsoft Purview, RLS, and role-based access
+- Supporting deployment workflows, UAT, and production delivery with Azure DevOps
+## Certifications
+- Microsoft Certified: Fabric Data Engineer Associate
+- Microsoft Certified: Fabric Analytics Engineer Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+## Data science interests
+Alongside data engineering, I enjoy machine learning, predictive modelling, and applied analytics.
+- **[Churn Prediction](https://github.com/kmrityunjay19/Churn_prediction)** - employee churn prediction
+- **[Beverage Quality Analysis](https://github.com/kmrityunjay19/Breverages_RFC)** - data-driven beverage-quality exploration
+- **[Spruce Classification](https://github.com/kmrityunjay19/Spruce_Classification)** - forest-cover classification from cartographic data
+## Beyond work
+🎮 I enjoy gaming and following how technology, data, and interactive experiences come together.
 ## Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kmrityunjay19/)
 ---
-*Always learning, building, and improving.*
+*Building dependable data platforms and continuously exploring what data can do.*
